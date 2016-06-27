@@ -1,3 +1,4 @@
+! wow! such a great loop
 for file in NENE*.txt
 do
 echo $file
